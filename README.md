@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil Sany Chiquetti 😁
-Busco oportunidade profissional que permita meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos!
+## Busco oportunidade profissional que permita meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos!
 
  <div>
    <a href="https://github.com/sanychiquetti">
