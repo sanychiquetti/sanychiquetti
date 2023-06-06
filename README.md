@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil Sany Chiquetti 😁
-## Busco aprimorar meus conhecimentos, afim de me tornar uma profissional competente!
+## Busco aprimorar meus conhecimentos, afim de me profissionalizar!
 
  <div>
    <a href="https://github.com/sanychiquetti">
